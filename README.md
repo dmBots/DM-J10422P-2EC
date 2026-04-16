@@ -6,15 +6,15 @@
 - 未确认内容保持 `TBD` 或 `Translation pending`，不在此处硬补。
 
 ## 文档 / 资源
-- [说明书/](说明书/)
-- [2D图纸/](2D图纸/)
-- [3D模型/](3D模型/)
-- [性能曲线/](性能曲线/)
-- [最大过载时间/](最大过载时间/)
+- [Manual/](Manual/)
+- [2D Drawings/](2D Drawings/)
+- [3D Models/](3D Models/)
+- [Performance Curves/](Performance Curves/)
+- [Maximum Overload Duration/](Maximum Overload Duration/)
 
 ## 快速开始
 - 本目录没有独立的快速开始步骤。
-- 如需使用说明，请先阅读 [说明书/](说明书/)。
+- 如需使用说明，请先阅读 [Manual/](Manual/)。
 - 如需查看外形和特性，请参考图纸、3D 模型、性能曲线和最大过载时间资料。
 
 ## 状态
